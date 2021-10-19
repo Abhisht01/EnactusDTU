@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    list-style: none;
+    text-decoration: none;
+    padding: 0px;
+}
+.nav1{
+    display: inline-block;
+    text-align: center;
+}
